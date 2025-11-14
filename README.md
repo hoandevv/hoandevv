@@ -33,7 +33,6 @@ I'm passionate about web development and always eager to learn and grow in the f
 
 ## <span style="font-size: 85%;">💻 Skills:</span>
 
-<h3 align="center">🛠 Technologies and Tools 🛠</h3>
 
 ### 🎨 Frontend Development
 <p align="center">
@@ -49,16 +48,15 @@ I'm passionate about web development and always eager to learn and grow in the f
   <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" alt="Java" width="56" height="56" />
   <img src="https://img.icons8.com/color/96/000000/spring-logo.png" alt="Spring" width="56" height="56" />
   <img src="https://img.icons8.com/offices/96/000000/php-logo.png" alt="PHP" width="56" height="56" />
-  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" width="56" height="56" />
 </p>
 
 ### <span style="font-size: 85%;">🔧 Tools & Version Control</span>
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" width="56" height="56" />
   <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="GitHub" width="56" height="56" />
-  <img src="https://img.icons8.com/color/96/000000/gitlab.png" alt="GitLab" width="56" height="56" />
   <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="VSCode" width="56" height="56" />
   <img src="https://img.icons8.com/color/96/000000/intellij-idea.png" alt="IntelliJ IDEA" width="56" height="56" />
+  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" width="56" height="56" />
 </p>
 
 ## <span style="font-size: 85%;">📊 Activities:</span>
