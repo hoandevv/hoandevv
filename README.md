@@ -74,7 +74,7 @@ Nền tảng thương mại điện tử chuyên bán bàn phím, được xây 
 **Tech Stack:** PHP 8.2, MySQL 8.0, PHPMailer, Bootstrap 5, Docker
 
 <p align="center">
-  <a href="https://github.com/hoandevv/GearShop">
+  <a href="https://github.com/hoandevv/Sales-Management-Project" target="_blank")">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </p>
@@ -97,5 +97,5 @@ Nền tảng thương mại điện tử chuyên bán bàn phím, được xây 
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/Dohoan-2511">Dohoan-2511</a></i>
+  <i>⭐️ From hoanfdh_ </i>
 </p>
