@@ -33,7 +33,6 @@ I'm passionate about web development and always eager to learn and grow in the f
 
 ## <span style="font-size: 85%;">💻 Skills:</span>
 
-
 ### 🎨 Frontend Development
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" width="56" height="56" />
@@ -59,6 +58,47 @@ I'm passionate about web development and always eager to learn and grow in the f
   <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" width="56" height="56" />
 </p>
 
+## <span style="font-size: 85%;">🚀 Featured Projects:</span>
+
+### ⌨️ [GearShop - E-commerce Platform](https://github.com/hoandevv/GearShop)
+Nền tảng thương mại điện tử chuyên bán bàn phím, được xây dựng với PHP thuần và MySQL. Dự án bao gồm giao diện khách hàng hiện đại và hệ thống quản trị toàn diện.
+
+**Tính năng nổi bật:**
+- 🛒 Hệ thống mua sắm hoàn chỉnh (giỏ hàng, thanh toán COD, theo dõi đơn hàng)
+- 🔐 Xác thực OTP qua email khi đăng ký và khôi phục mật khẩu
+- 📊 Dashboard thống kê tổng quan doanh thu, đơn hàng, sản phẩm, khách hàng, thống kê theo tháng, top sản phẩm bán chạy
+- 📧 Gửi email tự động thông báo đơn hàng 
+- 🎨 Responsive design với Bootstrap 5
+- 🐳 Triển khai với Docker & Docker Compose
+
+**Tech Stack:** PHP 8.2, MySQL 8.0, PHPMailer, Bootstrap 5, Docker
+
+<p align="center">
+  <a href="https://github.com/hoandevv/GearShop">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</p>
+
+---
+
+### 📊 [Sales Management Project](https://github.com/hoandevv/Sales-Management-Project)
+Hệ thống quản lý bán hàng toàn diện được xây dựng với Java Spring Framework, tập trung vào quản lý doanh thu, khách hàng và tồn kho.
+
+**Tính năng chính:**
+- 📈 Theo dõi và báo cáo doanh số
+- 👥 Quản lý khách hàng
+- 📦 Kiểm soát tồn kho
+- 💰 Phân tích doanh thu
+- 🔐 Xác thực và phân quyền người dùng
+
+**Tech Stack:** Java, Spring Framework, MySQL, HTML/CSS/JavaScript
+
+<p align="center">
+  <a href="https://github.com/hoandevv/Sales-Management-Project">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</p>
+
 ## <span style="font-size: 85%;">📊 Activities:</span>
 <table style="width:100%;">
   <tr>
@@ -73,4 +113,9 @@ I'm passionate about web development and always eager to learn and grow in the f
     </td>
   </tr>
 </table>
-# hoandevv
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Dohoan-2511">Dohoan-2511</a></i>
+</p>
