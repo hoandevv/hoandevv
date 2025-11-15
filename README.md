@@ -79,26 +79,6 @@ Nền tảng thương mại điện tử chuyên bán bàn phím, được xây 
   </a>
 </p>
 
----
-
-### 📊 [Sales Management Project](https://github.com/hoandevv/Sales-Management-Project)
-Hệ thống quản lý bán hàng toàn diện được xây dựng với Java Spring Framework, tập trung vào quản lý doanh thu, khách hàng và tồn kho.
-
-**Tính năng chính:**
-- 📈 Theo dõi và báo cáo doanh số
-- 👥 Quản lý khách hàng
-- 📦 Kiểm soát tồn kho
-- 💰 Phân tích doanh thu
-- 🔐 Xác thực và phân quyền người dùng
-
-**Tech Stack:** Java, Spring Framework, MySQL, HTML/CSS/JavaScript
-
-<p align="center">
-  <a href="https://github.com/hoandevv/Sales-Management-Project">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-  </a>
-</p>
-
 ## <span style="font-size: 85%;">📊 Activities:</span>
 <table style="width:100%;">
   <tr>
