@@ -60,7 +60,7 @@ I'm passionate about web development and always eager to learn and grow in the f
 
 ## <span style="font-size: 85%;">🚀 Featured Projects:</span>
 
-### ⌨️ [GearShop - E-commerce Platform](https://github.com/hoandevv/GearShop)
+### ⌨️ [GearShop - E-commerce Platform](https://github.com/hoandevv/Sales-Management-Project)
 Nền tảng thương mại điện tử, được xây dựng với PHP thuần và MySQL. Dự án bao gồm giao diện khách hàng hiện đại và hệ thống quản trị toàn diện.
 
 **Tính năng nổi bật:**
