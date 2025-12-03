@@ -80,8 +80,8 @@ Nền tảng thương mại điện tử, được xây dựng với PHP thuần
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoandevv&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="hoandevv's Top Languages"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=hoandevv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" alt="hoandevv GitHub Stats" width="100%"/>
+      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoandevv&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="hoandevv's Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=hoandevv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" alt="hoandevv GitHub Stats" width="100%"/> -->
     </td>
     <td>
       <p align="center"> 
