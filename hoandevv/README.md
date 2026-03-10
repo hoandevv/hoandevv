@@ -1,9 +1,5 @@
 # Hi 👋, I'm Hoan
 
-## My Contribution Snake 🐍
-
-![snake gif](https://github.com/hoandevv/hoandevv/blob/output/github-contribution-grid-snake.svg)
-
-## Connect with me
-
-- GitHub: [@hoandevv](https://github.com/hoandevv)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-snake.svg" />
+</p>
