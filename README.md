@@ -9,13 +9,7 @@
   Hi 👋, I'm Hoan
 </h1>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+
 
 <h3 align="center">
   Backend Developer | Java & Spring Boot
@@ -123,7 +117,7 @@ PHP 8.2, MySQL 8.0, PHPMailer, Bootstrap 5, Docker
 
 ## 📊 Activities
 
-<table style="width:100%;">
+<table style="width:10%;">
   <tr>
     <td>
       <!-- GitHub stats nếu muốn bật lại -->
@@ -137,7 +131,14 @@ PHP 8.2, MySQL 8.0, PHPMailer, Bootstrap 5, Docker
 </table>
 
 ---
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-contribution-grid-snake.svg">
+    <img width="700" alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 <p align="center">
   <i>⭐️ From hoandevv</i>
 </p>
