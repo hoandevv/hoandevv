@@ -9,6 +9,10 @@
   Hi 👋, I'm Hoan
 </h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-snake.svg" />
+</p>
+
 <h3 align="center">
   Backend Developer | Java & Spring Boot
 </h3>
