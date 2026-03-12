@@ -1,144 +1,116 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://github.com/hoandevv.png" />
+<div align="center">
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTloamF5bHJpcG8yb2tmNHh1aGVleHpwM3djZmw0dXl3cTQ3Y24wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sPn5t0dMlAtO/giphy.gif" width="70" alt="Wave" />
-</p>
+<img src="https://github.com/hoandevv.png" width="100" style="border-radius:50%"/>
 
-<h1 align="center">
-  Hi 👋, I'm Hoan
-</h1>
+# Đỗ Hoàn
 
+**Backend Developer · Java & Spring Boot**
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/hoando2511)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/Dohoan-2511)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hoandev208@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=hoandevv&style=flat&color=0e75b6)
 
-<h3 align="center">
-  Backend Developer | Java & Spring Boot
-</h3>
-
-> ✍ I'm Đỗ Hoàn, currently a student at [University of Transport and Communications (UTT)](https://utt.edu.vn).  
-I’m passionate about backend development, system design, and building scalable web applications.
-
-<br />
-
-![](https://komarev.com/ghpvc/?username=Dohoan-2511&style=flat-square)
+</div>
 
 ---
 
-## 📫 How to reach me:
-
-<p align="center">
-  <a href="https://www.facebook.com/hoando2511">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
-  </a> 
-  <a href="https://github.com/Dohoan-2511">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="mailto:dohoan25112005@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
+> 🎓 Student at [University of Transport and Communications (UTT)](https://utt.edu.vn)  
+> 💡 Passionate about backend development, system design & scalable web applications
 
 ---
 
-## 💻 Skills
+## 🛠 Tech Stack
 
-### 🎨 Frontend
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" width="56"/>
-  <img src="https://img.icons8.com/color/96/000000/css3.png" width="56"/>
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" width="56"/>
-  <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="56"/>
-</p>
+**Backend & Database**
 
-### ⚙️ Backend
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" width="56"/>
-  <img src="https://img.icons8.com/color/96/000000/spring-logo.png" width="56"/>
-  <img src="https://img.icons8.com/offices/96/000000/php-logo.png" width="56"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🔧 Tools
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/github--v1.png" width="56"/>
-  <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="56"/>
-  <img src="https://img.icons8.com/color/96/000000/intellij-idea.png" width="56"/>
-  <img src="https://img.icons8.com/color/96/000000/docker.png" width="56"/>
-</p>
+**Frontend**
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-# 🚀 Featured Projects
+**Tools & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🎬 Movie Booking System – Backend API  
-> Hệ thống đặt vé xem phim trực tuyến với Spring Boot, Redis & MySQL
+## 🚀 Featured Projects
 
-**Tính năng nổi bật:**
-- 💺 Distributed Seat Holding với Redis (TTL 120s)
-- 🔐 JWT Authentication (Access + Refresh Token)
-- 🎫 Anti double-booking với Redis Distributed Lock
-- ⏰ Auto-expire booking sau 15 phút
-- 📊 Pagination, filtering & dynamic pricing
-- 🐳 Dockerized deployment
+### 🎬 Movie Booking System — Backend API
 
-**Tech Stack:**  
-Java 17, Spring Boot 3, Spring Security, MySQL 8, Redis, Docker, Testcontainers
+> Hệ thống đặt vé xem phim với Spring Boot, Redis & MySQL
 
-<p align="center">
-  <a href="https://github.com/hoangdinhdung05/Backend-Movie-Booking-System">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+| Feature | Detail |
+|---|---|
+| 💺 Distributed Seat Holding | Redis TTL 120s |
+| 🔐 JWT Authentication | Access + Refresh Token |
+| 🔒 Anti double-booking | Redis Distributed Lock |
+| ⏰ Auto-expire booking | Sau 15 phút |
+| 📊 Data | Pagination, filtering, dynamic pricing |
+| 🐳 Deploy | Dockerized |
+
+**Stack:** `Java 17` `Spring Boot 3` `Spring Security` `MySQL 8` `Redis` `Docker` `Testcontainers`
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoangdinhdung05/Backend-Movie-Booking-System)
 
 ---
 
-## 🛒 GearShop – E-commerce Platform  
+### 🛒 GearShop — E-commerce Platform
+
 > Nền tảng thương mại điện tử xây dựng với PHP & MySQL
 
-**Tính năng nổi bật:**
-- 🛒 Hệ thống giỏ hàng & thanh toán COD
-- 🔐 OTP Email verification
-- 📊 Dashboard thống kê doanh thu & đơn hàng
-- 📧 Gửi email tự động khi đặt hàng
-- 🎨 Responsive UI với Bootstrap 5
-- 🐳 Triển khai bằng Docker & Docker Compose
+| Feature | Detail |
+|---|---|
+| 🛒 Cart & Payment | Hỗ trợ COD |
+| 🔐 OTP Verification | Xác thực qua Email |
+| 📊 Dashboard | Thống kê doanh thu & đơn hàng |
+| 📧 Auto Email | Gửi tự động khi đặt hàng |
+| 🎨 UI | Responsive với Bootstrap 5 |
+| 🐳 Deploy | Docker & Docker Compose |
 
-**Tech Stack:**  
-PHP 8.2, MySQL 8.0, PHPMailer, Bootstrap 5, Docker
+**Stack:** `PHP 8.2` `MySQL 8.0` `PHPMailer` `Bootstrap 5` `Docker`
 
-<p align="center">
-  <a href="https://github.com/hoandevv/Sales-Management-Project">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoandevv/Sales-Management-Project)
 
 ---
 
-## 📊 Activities
+## 📊 GitHub Stats
 
-<table style="width:10%;">
-  <tr>
-    <td>
-      <!-- GitHub stats nếu muốn bật lại -->
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI1dWN3MHE3NXZwcjFpd3h6YWJndmF4ODhlcXhoMGhwdGJvenoxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoandevv&theme=radical" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoandevv&theme=radical" width="45%"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hoandevv&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
 
 ---
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-contribution-grid-snake.svg">
-    <img width="700" alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-<p align="center">
-  <i>⭐️ From hoandevv</i>
-</p>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-contribution-grid-snake.svg">
+  <img width="700" alt="snake animation" src="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+*⭐ From hoandevv*
+
+</div>
