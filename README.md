@@ -1,112 +1,90 @@
 <div align="center">
 
-<img src="https://github.com/hoandevv.png" width="100" style="border-radius:50%"/>
 
-# Đỗ Hoàn
 
-**Backend Developer · Java & Spring Boot**
+Hi, I'm Hoàn 👋
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/hoando2511)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/Dohoan-2511)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hoandev208@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=hoandevv&style=flat&color=0e75b6)
+**Backend Developer** — Java · Spring Boot · System Design
+
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hoando2511)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dohoan-2511)
+[![Gmail](https://img.shields.io/badge/-hoandev208@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hoandev208@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=hoandevv&style=flat-square&color=6DB33F&label=visitors)
+
+</div>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C98F0&center=true&vCenter=true&random=false&width=500&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Redis+%7C+MySQL;Clean+code+%7C+System+Design)](https://git.io/typing-svg)
 
 </div>
 
----
+### 🙋‍♂️ About Me
 
-> 🎓 Student at [University of Transport and Communications (UTT)](https://utt.edu.vn)  
-> 💡 Passionate about backend development, system design & scalable web applications
-
----
-
-## 🛠 Tech Stack
-
-**Backend & Database**
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</div>
-
-**Frontend**
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-15-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-
-</div>
-
-**Tools & DevOps**
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-## 🚀 Featured Projects
-
-### 🎬 Movie Booking System — Backend API
-
-> Hệ thống đặt vé xem phim với Spring Boot, Redis & MySQL
-
-| Feature | Detail |
-|---|---|
-| 💺 Distributed Seat Holding | Redis TTL 120s |
-| 🔐 JWT Authentication | Access + Refresh Token |
-| 🔒 Anti double-booking | Redis Distributed Lock |
-| ⏰ Auto-expire booking | Sau 15 phút |
-| 📊 Data | Pagination, filtering, dynamic pricing |
-| 🐳 Deploy | Dockerized |
-
-**Stack:** `Java 17` `Spring Boot 3` `Spring Security` `MySQL 8` `Redis` `Docker` `Testcontainers`
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoandevv/Movie-Booking-System)
+```java
+Developer hoàn = new Developer()
+    .school("University of Transport and Communications (UTT)")
+    .focus("Backend Development · System Design · Scalable APIs")
+    .currentlyLearning("Microservices · Kafka · Clean Architecture")
+    .lookingFor("Internship / Junior Backend Role");
+```
 
 ---
 
-### 🛒 GearShop — E-commerce Platform
+### 🛠 Tech Stack
 
-> Nền tảng thương mại điện tử xây dựng với PHP & MySQL
+**Backend**
+`Java 17` `Spring Boot 3` `Spring Security` `PHP 8`
 
-| Feature | Detail |
-|---|---|
-| 🛒 Cart & Payment | Hỗ trợ COD |
-| 🔐 OTP Verification | Xác thực qua Email |
-| 📊 Dashboard | Thống kê doanh thu & đơn hàng |
-| 📧 Auto Email | Gửi tự động khi đặt hàng |
-| 🎨 UI | Responsive với Bootstrap 5 |
-| 🐳 Deploy | Docker & Docker Compose |
+**Database & Cache**
+`MySQL` `Redis`
 
-**Stack:** `PHP 8.2` `MySQL 8.0` `PHPMailer` `Bootstrap 5` `Docker`
+**Frontend** *(basic)*
+`HTML/CSS` `JavaScript` `Bootstrap 5` `Angular 15`
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoandevv/Sales-Management-Project)
+**DevOps & Tools**
+`Docker` `GitHub` `IntelliJ IDEA` `Postman`
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Projects
+
+## 🚀 Projects
+
+### 🎬 [Movie Booking System](https://github.com/hoandevv/Movie-Booking-System)
+> RESTful API for movie ticket booking — **Spring Boot 3 · Redis · MySQL · Docker**
+
+- 💺 Implemented distributed seat holding using Redis TTL (120s) and distributed locking to prevent double booking  
+- 🔐 JWT Authentication (Access & Refresh Token), with automatic booking expiration after 15 minutes  
+- ⚡ Optimized performance with Redis caching  
+- 📄 Supported pagination, filtering, and dynamic pricing  
+- 🐳 Containerized application using Docker  
+
+---
+
+### 📦 [Warehouse Management System](https://github.com/hoandevv/WareHouseSystem-BE)
+> Backend system for warehouse management — **Spring Boot · MySQL · Redis · Docker**
+
+- 📦 Managed products, batches, and real-time inventory tracking  
+- 🔄 Handled import/export operations with transactional consistency  
+- ⚡ Improved query performance using Redis caching  
+- 🔐 Designed RESTful APIs with role-based access control (RBAC)  
+- 📊 Implemented pagination & filtering for products and transaction history  
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoandevv&theme=radical" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoandevv&theme=radical" width="45%"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoandevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoandevv&theme=tokyonight"/>
 
-<br/><br/>
+<br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hoandevv&theme=react-dark&hide_border=true&area=true"/>
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=hoandevv&theme=tokyo-night&hide_border=true&area=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hoandevv&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -117,11 +95,16 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-contribution-grid-snake.svg">
-  <img width="700" alt="snake animation" src="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-contribution-grid-snake.svg">
+  <img width="700" alt="contribution snake" src="https://raw.githubusercontent.com/hoandevv/hoandevv/output/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+</div>
+
 <br/>
-
-*⭐ From hoandevv*
-
+<div align="center">
+<sub>⭐ Đỗ Hoàn · hoandevv</sub>
+</div>
 </div>
