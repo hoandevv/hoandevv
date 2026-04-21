@@ -48,7 +48,6 @@ Developer hoàn = new Developer()
 
 ### 🚀 Projects
 
-## 🚀 Projects
 
 ### 🎬 [Movie Booking System](https://github.com/hoandevv/Movie-Booking-System)
 > RESTful API for movie ticket booking — **Spring Boot 3 · Redis · MySQL · Docker**
